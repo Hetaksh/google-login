@@ -1,0 +1,717 @@
+2023-11-22 16:34:41.112 :  ========================= HealthCoach v2.12 =========================
+2023-11-22 16:34:41.120 :  =============================================================
+2023-11-22 16:34:41.120 : Application Version HealthCoach v2.12
+2023-11-22 16:34:41.121 : iDevice Information Name: iPhone, Model: iPhone, OS Name: iOS, OS Version: 16.7.2
+2023-11-22 16:34:41.121 :  =============================================================
+2023-11-22 16:35:01.777 : API : Scanning
+2023-11-22 16:35:01.810 : API : Scanning
+2023-11-22 16:35:01.811 : Response : Central manager state: Powered On.
+2023-11-22 16:37:10.165 : API : Scanning
+2023-11-22 16:37:10.228 : API : Scanning
+2023-11-22 16:37:10.685 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:37:10.703 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:37:10.828 : API : Scanning
+2023-11-22 16:37:13.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:19.775 : Response: EVENT scanTimedOut
+2023-11-22 16:37:19.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:19.784 : Response: EVENT searchTimedOut
+2023-11-22 16:37:20.693 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:37:20.710 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:37:25.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:30.712 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:37:30.731 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:37:31.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:35.712 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 16:37:37.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:43.775 : Response: EVENT scanTimedOut
+2023-11-22 16:37:43.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:43.783 : Response: EVENT searchTimedOut
+2023-11-22 16:37:45.716 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:37:45.734 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:37:49.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:37:50.727 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:37:50.744 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:37:55.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:00.731 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:38:00.750 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 16:38:01.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:05.733 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:38:07.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:10.736 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:38:13.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:19.775 : Response: EVENT scanTimedOut
+2023-11-22 16:38:19.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:19.785 : Response: EVENT searchTimedOut
+2023-11-22 16:38:20.744 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-86
+2023-11-22 16:38:25.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:30.749 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:38:30.767 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:38:31.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:37.775 : Response: EVENT scanTimedOut
+2023-11-22 16:38:37.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:37.784 : Response: EVENT searchTimedOut
+2023-11-22 16:38:40.761 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:38:43.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:45.767 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-70
+2023-11-22 16:38:45.786 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-70
+2023-11-22 16:38:49.774 : Response: EVENT scanTimedOut2
+2023-11-22 16:38:55.772 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:38:55.793 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:38:58.974 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:00.769 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:39:00.775 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:39:01.774 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:07.774 : Response: EVENT scanTimedOut
+2023-11-22 16:39:07.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:07.781 : Response: EVENT searchTimedOut
+2023-11-22 16:39:13.775 : Response: EVENT scanTimedOut
+2023-11-22 16:39:13.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:13.785 : Response: EVENT searchTimedOut
+2023-11-22 16:39:19.775 : Response: EVENT scanTimedOut
+2023-11-22 16:39:19.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:19.785 : Response: EVENT searchTimedOut
+2023-11-22 16:39:25.775 : Response: EVENT scanTimedOut
+2023-11-22 16:39:25.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:25.785 : Response: EVENT searchTimedOut
+2023-11-22 16:39:31.775 : Response: EVENT scanTimedOut
+2023-11-22 16:39:31.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:31.785 : Response: EVENT searchTimedOut
+2023-11-22 16:39:35.813 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:39:35.832 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:39:37.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:40.813 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:39:40.830 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:39:43.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:45.816 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:39:49.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:55.775 : Response: EVENT scanTimedOut
+2023-11-22 16:39:55.780 : Response: EVENT scanTimedOut2
+2023-11-22 16:39:55.786 : Response: EVENT searchTimedOut
+2023-11-22 16:40:00.825 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:40:00.844 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:40:01.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:05.830 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:40:05.848 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:40:07.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:10.833 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:40:10.850 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:40:13.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:19.776 : Response: EVENT scanTimedOut
+2023-11-22 16:40:19.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:19.786 : Response: EVENT searchTimedOut
+2023-11-22 16:40:20.841 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 16:40:20.859 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 16:40:25.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:30.847 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:40:30.865 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:40:31.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:37.776 : Response: EVENT scanTimedOut
+2023-11-22 16:40:37.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:37.785 : Response: EVENT searchTimedOut
+2023-11-22 16:40:40.853 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:40:40.871 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:40:43.775 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:49.776 : Response: EVENT scanTimedOut
+2023-11-22 16:40:49.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:49.786 : Response: EVENT searchTimedOut
+2023-11-22 16:40:50.861 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:40:50.880 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:40:55.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:40:55.863 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:40:55.880 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:41:01.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:05.873 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:41:05.891 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:41:07.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:13.776 : Response: EVENT scanTimedOut
+2023-11-22 16:41:13.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:13.785 : Response: EVENT searchTimedOut
+2023-11-22 16:41:19.776 : Response: EVENT scanTimedOut
+2023-11-22 16:41:19.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:19.785 : Response: EVENT searchTimedOut
+2023-11-22 16:41:20.883 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:41:20.902 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:41:25.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:25.889 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:41:25.907 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-84
+2023-11-22 16:41:31.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:35.902 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:41:35.920 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:41:37.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:40.904 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:41:43.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:49.776 : Response: EVENT scanTimedOut
+2023-11-22 16:41:49.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:49.785 : Response: EVENT searchTimedOut
+2023-11-22 16:41:50.915 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:41:55.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:41:55.918 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:41:55.935 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:42:01.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:05.936 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:05.954 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:07.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:10.940 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:10.958 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:13.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:15.942 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:19.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:20.943 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:42:25.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:30.955 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:42:30.972 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:42:31.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:35.958 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:42:37.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:43.776 : Response: EVENT scanTimedOut
+2023-11-22 16:42:43.781 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:43.785 : Response: EVENT searchTimedOut
+2023-11-22 16:42:45.971 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:42:49.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:42:50.975 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 16:42:55.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:01.776 : Response: EVENT scanTimedOut
+2023-11-22 16:43:01.782 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:01.786 : Response: EVENT searchTimedOut
+2023-11-22 16:43:05.987 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:43:06.005 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:43:07.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:10.989 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:43:11.006 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:43:13.777 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:15.998 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:43:16.015 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:43:19.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:20.997 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:43:21.015 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:43:25.776 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:26.003 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 16:43:26.022 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 16:43:31.777 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:37.776 : Response: EVENT scanTimedOut
+2023-11-22 16:43:37.782 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:37.787 : Response: EVENT searchTimedOut
+2023-11-22 16:43:41.018 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:43:43.777 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:46.022 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:43:46.040 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:43:49.777 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:55.777 : Response: EVENT scanTimedOut
+2023-11-22 16:43:55.782 : Response: EVENT scanTimedOut2
+2023-11-22 16:43:55.786 : Response: EVENT searchTimedOut
+2023-11-22 16:44:01.777 : Response: EVENT scanTimedOut
+2023-11-22 16:44:01.782 : Response: EVENT scanTimedOut2
+2023-11-22 16:44:01.786 : Response: EVENT searchTimedOut
+2023-11-22 16:44:07.777 : Response: EVENT scanTimedOut
+2023-11-22 16:44:07.782 : Response: EVENT scanTimedOut2
+2023-11-22 16:44:07.787 : Response: EVENT searchTimedOut
+2023-11-22 16:53:46.220 : API : Scanning
+2023-11-22 16:53:46.630 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:53:46.649 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:53:52.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:53:56.639 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:53:56.656 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:53:58.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:01.646 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 16:54:01.665 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 16:54:04.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:06.645 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:54:06.662 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:54:10.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:11.653 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:54:11.674 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:54:16.216 : API : Scanning
+2023-11-22 16:54:16.258 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:22.218 : Response: EVENT scanTimedOut
+2023-11-22 16:54:22.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:22.227 : Response: EVENT searchTimedOut
+2023-11-22 16:54:28.218 : Response: EVENT scanTimedOut
+2023-11-22 16:54:28.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:28.227 : Response: EVENT searchTimedOut
+2023-11-22 16:54:34.217 : Response: EVENT scanTimedOut
+2023-11-22 16:54:34.222 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:34.226 : Response: EVENT searchTimedOut
+2023-11-22 16:54:36.662 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:54:36.679 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:54:40.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:41.670 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-88
+2023-11-22 16:54:46.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:46.672 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:54:51.680 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:54:52.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:58.218 : Response: EVENT scanTimedOut
+2023-11-22 16:54:58.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:54:58.227 : Response: EVENT searchTimedOut
+2023-11-22 16:55:04.218 : Response: EVENT scanTimedOut
+2023-11-22 16:55:04.224 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:04.228 : Response: EVENT searchTimedOut
+2023-11-22 16:55:10.218 : Response: EVENT scanTimedOut
+2023-11-22 16:55:10.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:10.227 : Response: EVENT searchTimedOut
+2023-11-22 16:55:16.218 : Response: EVENT scanTimedOut
+2023-11-22 16:55:16.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:16.227 : Response: EVENT searchTimedOut
+2023-11-22 16:55:16.697 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:55:16.715 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:55:22.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:26.705 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:55:26.723 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:55:28.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:31.711 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:55:31.728 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:55:34.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:36.711 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:55:36.728 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:55:40.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:41.715 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:55:41.733 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:55:46.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:46.720 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:55:46.738 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:55:52.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:58.218 : Response: EVENT scanTimedOut
+2023-11-22 16:55:58.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:55:58.227 : Response: EVENT searchTimedOut
+2023-11-22 16:56:04.218 : Response: EVENT scanTimedOut
+2023-11-22 16:56:04.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:04.228 : Response: EVENT searchTimedOut
+2023-11-22 16:56:06.729 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:56:10.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:11.731 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:56:11.750 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:56:16.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:16.737 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:56:16.756 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 16:56:22.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:26.745 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 16:56:26.762 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 16:56:28.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:34.218 : Response: EVENT scanTimedOut
+2023-11-22 16:56:34.224 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:34.228 : Response: EVENT searchTimedOut
+2023-11-22 16:56:36.751 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:56:36.770 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:56:40.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:46.218 : Response: EVENT scanTimedOut
+2023-11-22 16:56:46.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:46.227 : Response: EVENT searchTimedOut
+2023-11-22 16:56:51.763 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:56:51.784 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:56:52.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:58.218 : Response: EVENT scanTimedOut
+2023-11-22 16:56:58.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:56:58.227 : Response: EVENT searchTimedOut
+2023-11-22 16:57:01.757 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:57:01.760 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:57:04.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:06.775 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:57:06.792 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:57:10.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:11.772 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:57:16.217 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:22.217 : Response: EVENT scanTimedOut
+2023-11-22 16:57:22.222 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:22.226 : Response: EVENT searchTimedOut
+2023-11-22 16:57:26.796 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:57:26.816 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:57:28.217 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:31.805 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:57:31.823 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 16:57:34.668 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:40.216 : Response: EVENT scanTimedOut
+2023-11-22 16:57:40.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:40.220 : Response: EVENT searchTimedOut
+2023-11-22 16:57:41.813 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 16:57:41.833 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:57:46.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:52.218 : Response: EVENT scanTimedOut
+2023-11-22 16:57:52.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:52.228 : Response: EVENT searchTimedOut
+2023-11-22 16:57:55.513 : API : Scanning
+2023-11-22 16:57:58.218 : Response: EVENT scanTimedOut
+2023-11-22 16:57:58.223 : Response: EVENT scanTimedOut2
+2023-11-22 16:57:58.228 : Response: EVENT searchTimedOut
+2023-11-22 16:58:01.839 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:58:01.857 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:58:03.258 : API : Scanning
+2023-11-22 16:58:04.216 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:10.219 : Response: EVENT scanTimedOut
+2023-11-22 16:58:10.224 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:10.229 : Response: EVENT searchTimedOut
+2023-11-22 16:58:16.219 : Response: EVENT scanTimedOut
+2023-11-22 16:58:16.224 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:16.229 : Response: EVENT searchTimedOut
+2023-11-22 16:58:16.848 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 16:58:22.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:28.217 : Response: EVENT scanTimedOut
+2023-11-22 16:58:28.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:28.221 : Response: EVENT searchTimedOut
+2023-11-22 16:58:31.862 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:58:31.883 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:58:34.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:40.219 : Response: EVENT scanTimedOut
+2023-11-22 16:58:40.224 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:40.229 : Response: EVENT searchTimedOut
+2023-11-22 16:58:41.869 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:58:41.887 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-71
+2023-11-22 16:58:46.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:46.873 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:58:46.891 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 16:58:52.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:58:56.878 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 16:58:58.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:01.882 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:59:01.903 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 16:59:04.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:06.879 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:59:06.897 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:59:10.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:11.881 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:59:11.898 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 16:59:16.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:16.886 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:59:16.905 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:59:22.218 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:26.886 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:59:28.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:31.895 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-86
+2023-11-22 16:59:34.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:36.902 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 16:59:36.922 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 16:59:40.219 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:41.906 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:59:41.925 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 16:59:48.468 : API : Scanning
+2023-11-22 16:59:51.908 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 16:59:51.926 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 16:59:54.463 : Response: EVENT scanTimedOut2
+2023-11-22 16:59:56.913 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 16:59:56.931 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-86
+2023-11-22 17:00:00.461 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:06.462 : Response: EVENT scanTimedOut
+2023-11-22 17:00:06.467 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:06.472 : Response: EVENT searchTimedOut
+2023-11-22 17:00:12.461 : Response: EVENT scanTimedOut
+2023-11-22 17:00:12.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:12.468 : Response: EVENT searchTimedOut
+2023-11-22 17:00:16.932 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-92
+2023-11-22 17:00:16.953 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-91
+2023-11-22 17:00:18.462 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:21.943 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:00:21.962 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:00:26.564 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:26.946 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-91
+2023-11-22 17:00:26.965 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-90
+2023-11-22 17:00:30.460 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:31.943 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:00:31.961 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:00:36.462 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:36.951 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:00:36.971 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:00:42.462 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:48.460 : Response: EVENT scanTimedOut
+2023-11-22 17:00:48.460 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:48.466 : Response: EVENT searchTimedOut
+2023-11-22 17:00:51.961 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:00:51.980 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:00:54.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:00:56.967 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:00:56.986 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:01:00.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:06.462 : Response: EVENT scanTimedOut
+2023-11-22 17:01:06.467 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:06.472 : Response: EVENT searchTimedOut
+2023-11-22 17:01:06.973 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:01:06.992 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:01:12.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:18.463 : Response: EVENT scanTimedOut
+2023-11-22 17:01:18.468 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:18.473 : Response: EVENT searchTimedOut
+2023-11-22 17:01:21.981 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:01:22.000 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:01:24.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:26.982 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:01:27.001 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:01:30.527 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:36.463 : Response: EVENT scanTimedOut
+2023-11-22 17:01:36.468 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:36.472 : Response: EVENT searchTimedOut
+2023-11-22 17:01:36.989 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:01:41.996 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:01:42.722 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:46.998 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:01:47.016 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:01:49.416 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:51.997 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:01:52.000 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:01:55.624 : Response: EVENT scanTimedOut2
+2023-11-22 17:01:57.024 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:02:00.460 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:02.002 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:02:02.008 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:02:06.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:07.018 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:02:07.036 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:02:12.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:18.463 : Response: EVENT scanTimedOut
+2023-11-22 17:02:18.468 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:18.472 : Response: EVENT searchTimedOut
+2023-11-22 17:02:22.023 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:02:24.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:27.025 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:02:30.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:36.463 : Response: EVENT scanTimedOut
+2023-11-22 17:02:36.468 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:36.472 : Response: EVENT searchTimedOut
+2023-11-22 17:02:37.030 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:02:37.050 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:02:45.206 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:47.033 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:02:47.048 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:02:48.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:52.042 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:02:54.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:02:57.043 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:03:00.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:02.041 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:03:02.056 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:03:06.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:12.061 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 17:03:12.079 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:03:12.459 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:19.223 : Response: EVENT scanTimedOut
+2023-11-22 17:03:19.226 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:19.228 : Response: EVENT searchTimedOut
+2023-11-22 17:03:24.462 : Response: EVENT scanTimedOut
+2023-11-22 17:03:24.467 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:24.471 : Response: EVENT searchTimedOut
+2023-11-22 17:03:27.080 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 17:03:27.097 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-72
+2023-11-22 17:03:30.461 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:32.079 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:03:32.092 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:03:36.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:37.095 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:03:42.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:47.106 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:03:47.123 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:03:48.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:54.463 : Response: EVENT scanTimedOut
+2023-11-22 17:03:54.468 : Response: EVENT scanTimedOut2
+2023-11-22 17:03:54.474 : Response: EVENT searchTimedOut
+2023-11-22 17:03:57.114 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:04:00.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:02.118 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:04:02.139 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:04:06.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:12.129 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 17:04:12.462 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:18.458 : Response: EVENT scanTimedOut
+2023-11-22 17:04:18.463 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:18.468 : Response: EVENT searchTimedOut
+2023-11-22 17:04:22.124 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:04:22.143 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-86
+2023-11-22 17:04:24.455 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:30.453 : Response: EVENT scanTimedOut
+2023-11-22 17:04:30.458 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:30.463 : Response: EVENT searchTimedOut
+2023-11-22 17:04:32.138 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:04:32.156 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:04:36.452 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:37.142 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:04:37.162 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:04:42.451 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:47.154 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:04:47.174 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:04:48.450 : Response: EVENT scanTimedOut2
+2023-11-22 17:04:52.158 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:04:52.176 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:04:54.450 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:00.450 : Response: EVENT scanTimedOut
+2023-11-22 17:05:00.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:00.458 : Response: EVENT searchTimedOut
+2023-11-22 17:05:02.167 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:05:02.186 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:05:08.721 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:12.175 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-96
+2023-11-22 17:05:12.446 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:18.449 : Response: EVENT scanTimedOut
+2023-11-22 17:05:18.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:18.458 : Response: EVENT searchTimedOut
+2023-11-22 17:05:22.170 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 17:05:22.176 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:05:24.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:27.189 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:05:27.207 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:05:30.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:32.188 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:05:32.207 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:05:36.459 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:42.449 : Response: EVENT scanTimedOut
+2023-11-22 17:05:42.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:42.458 : Response: EVENT searchTimedOut
+2023-11-22 17:05:47.201 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:05:48.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:52.207 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:05:52.224 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:05:54.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:05:57.216 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-88
+2023-11-22 17:05:57.235 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-87
+2023-11-22 17:06:00.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:02.221 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:06:02.238 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:06:06.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:07.232 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:06:07.250 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 17:06:12.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:18.634 : Response: EVENT scanTimedOut
+2023-11-22 17:06:18.635 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:18.637 : Response: EVENT searchTimedOut
+2023-11-22 17:06:22.238 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:06:24.447 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:27.246 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:06:27.265 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:06:30.446 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:32.246 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:06:32.259 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:06:36.448 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:42.259 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:06:42.265 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:06:42.447 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:47.271 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:06:47.287 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:06:48.448 : Response: EVENT scanTimedOut2
+2023-11-22 17:06:52.279 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:06:52.299 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:06:56.338 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:00.449 : Response: EVENT scanTimedOut
+2023-11-22 17:07:00.450 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:00.452 : Response: EVENT searchTimedOut
+2023-11-22 17:07:06.449 : Response: EVENT scanTimedOut
+2023-11-22 17:07:06.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:06.459 : Response: EVENT searchTimedOut
+2023-11-22 17:07:07.309 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:07:07.328 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:07:12.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:18.449 : Response: EVENT scanTimedOut
+2023-11-22 17:07:18.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:18.459 : Response: EVENT searchTimedOut
+2023-11-22 17:07:22.311 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:07:22.331 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:07:24.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:27.315 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 17:07:27.335 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 17:07:30.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:32.310 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:07:32.316 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:07:36.446 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:42.335 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 17:07:42.355 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 17:07:42.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:47.356 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:07:48.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:54.449 : Response: EVENT scanTimedOut
+2023-11-22 17:07:54.455 : Response: EVENT scanTimedOut2
+2023-11-22 17:07:54.460 : Response: EVENT searchTimedOut
+2023-11-22 17:07:57.347 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:07:57.366 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:08:00.446 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:06.449 : Response: EVENT scanTimedOut
+2023-11-22 17:08:06.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:06.459 : Response: EVENT searchTimedOut
+2023-11-22 17:08:12.360 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-96
+2023-11-22 17:08:12.380 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-95
+2023-11-22 17:08:12.447 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:17.473 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:08:17.477 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:08:18.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:22.365 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-86
+2023-11-22 17:08:24.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:27.378 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:08:27.396 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-74
+2023-11-22 17:08:31.108 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:32.381 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:08:32.399 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:08:36.505 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:37.381 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:08:37.386 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:08:42.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:47.397 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:08:47.416 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:08:48.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:52.407 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:08:52.427 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:08:54.916 : Response: EVENT scanTimedOut2
+2023-11-22 17:08:57.410 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:09:00.447 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:02.414 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:09:02.431 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:09:06.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:07.434 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-85
+2023-11-22 17:09:07.444 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-84
+2023-11-22 17:09:12.473 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:17.424 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-82
+2023-11-22 17:09:18.474 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:22.419 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-91
+2023-11-22 17:09:22.425 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-90
+2023-11-22 17:09:24.447 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:27.436 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-93
+2023-11-22 17:09:30.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:36.449 : Response: EVENT scanTimedOut
+2023-11-22 17:09:36.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:36.459 : Response: EVENT searchTimedOut
+2023-11-22 17:09:39.834 : API : Scanning
+2023-11-22 17:09:42.452 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-88
+2023-11-22 17:09:42.471 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-89
+2023-11-22 17:09:42.802 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:47.457 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:09:47.476 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:09:48.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:09:52.458 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:09:52.476 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-77
+2023-11-22 17:09:54.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:00.449 : Response: EVENT scanTimedOut
+2023-11-22 17:10:00.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:00.458 : Response: EVENT searchTimedOut
+2023-11-22 17:10:02.464 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-78
+2023-11-22 17:10:02.475 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:10:06.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:12.480 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:10:12.498 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-80
+2023-11-22 17:10:12.883 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:17.488 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:10:17.507 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-75
+2023-11-22 17:10:18.814 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:24.449 : Response: EVENT scanTimedOut
+2023-11-22 17:10:24.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:24.459 : Response: EVENT searchTimedOut
+2023-11-22 17:10:30.448 : Response: EVENT scanTimedOut
+2023-11-22 17:10:30.451 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:30.454 : Response: EVENT searchTimedOut
+2023-11-22 17:10:32.501 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:10:32.519 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-76
+2023-11-22 17:10:36.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:42.449 : Response: EVENT scanTimedOut
+2023-11-22 17:10:42.454 : Response: EVENT scanTimedOut2
+2023-11-22 17:10:42.459 : Response: EVENT searchTimedOut
+2023-11-22 17:10:42.498 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:10:42.517 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-81
+2023-11-22 17:10:44.644 : API : Scanning
+2023-11-22 17:10:44.671 : API : Scanning
+2023-11-22 17:10:48.449 : Response: EVENT scanTimedOut2
+2023-11-22 17:16:03.381 : API : Scanning
+2023-11-22 17:16:07.802 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:16:07.819 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:16:09.380 : Response: EVENT scanTimedOut2
+2023-11-22 17:16:15.381 : Response: EVENT scanTimedOut
+2023-11-22 17:16:15.385 : Response: EVENT scanTimedOut2
+2023-11-22 17:16:15.389 : Response: EVENT searchTimedOut
+2023-11-22 17:16:17.812 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:16:17.830 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-79
+2023-11-22 17:16:21.380 : Response: EVENT scanTimedOut2
+2023-11-22 17:16:22.818 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:16:22.836 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-83
+2023-11-22 17:16:27.380 : Response: EVENT scanTimedOut2
+2023-11-22 17:16:27.827 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:16:27.845 : Response: EVENT didAfterDeviceFound: Name:SANITAS SBF70 - UDID:8936E53D-D37B-9BA5-AE24-1B0046F7175F - isTrusted:0 - measurementExists:1 - unknownMeasurementExists:1 - numberOfUnknownMeasurements:20 - pairingBit:0 rssi:-73
+2023-11-22 17:16:33.378 : Response: EVENT scanTimedOut2
